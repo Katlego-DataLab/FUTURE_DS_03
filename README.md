@@ -51,7 +51,7 @@ Without clean, structured data and a defined funnel, these questions cannot be a
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -65,7 +65,7 @@ Without clean, structured data and a defined funnel, these questions cannot be a
 
 ---
 
-## 📂 Dataset Summary
+##  Dataset Summary
 
 - **Source format:** CSV (`ecommerce_user_behavior_8000.csv`)
 - **Total records:** 8,000+ user sessions
@@ -87,7 +87,7 @@ Without clean, structured data and a defined funnel, these questions cannot be a
 
 ---
 
-## 🏗️ Pipeline Architecture
+##  Pipeline Architecture
 
 ```
 Raw CSV (8,000+ rows)
@@ -197,7 +197,7 @@ run;
 | Missing binary flags | 7 variables (see array) | Fill with **0** | Absence of action = action not taken |
 | Character truncation | `gender`, `device_type` | `length $15` declared | Prevents SAS defaulting to short $8 length |
 
-### 🔑 Advanced Technique: Array-Based Imputation
+### Advanced Technique: Array-Based Imputation
 
 Instead of writing 7 separate `IF` statements, a **SAS array** is used to loop through all binary flag variables in a single `DO` loop:
 
@@ -213,7 +213,7 @@ end;
 - `dim(num_flags)` — returns the array size automatically (7 here)
 - This is more scalable, readable, and maintainable than repeated `IF` blocks
 
-### 🛒 Conversion Funnel Engineering
+###  Conversion Funnel Engineering
 
 A **4-stage funnel** is created as binary flag columns to track exactly where users exit:
 
@@ -332,7 +332,7 @@ Two files are exported — one for row-level exploration, one for executive summ
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 The pipeline is designed to surface these specific business insights in Power BI:
 
