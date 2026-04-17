@@ -43,8 +43,8 @@ This project builds a **fully automated, end-to-end SAS data pipeline** that pro
 
 E-commerce businesses lose revenue at every stage of the customer journey without knowing exactly where or why. This project was built to answer three critical business questions:
 
-1. **Where do users drop off** in the buying journey — browsing, cart, or checkout?
-2. **Which customer segments convert the most** — by device, age, or gender?
+1. **Where do users drop off** in the buying journey browsing, cart, or checkout?
+2. **Which customer segments convert the most** by device, age, or gender?
 3. **How do engagement metrics** (time on site, bounce rate) actually impact purchase behavior?
 
 Without clean, structured data and a defined funnel, these questions cannot be answered reliably. This pipeline solves that.
