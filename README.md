@@ -377,7 +377,7 @@ The pipeline is designed to surface these specific business insights in Power BI
 ## 👤 Author
 
 **Katlego Mathebula**
-Diploma in Mathematical Sciences |  Machine Learning Engineer
+Diploma in Mathematical Sciences 
 
 ---
 
