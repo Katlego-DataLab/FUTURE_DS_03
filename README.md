@@ -1,6 +1,6 @@
-# 📊 E-Commerce User Behavior Analysis — SAS + Power BI
+# 📊 E-Commerce User Behavior Analysis  SAS + Power BI
 
-> **Automated data pipeline to clean, transform, and analyze 8,000+ e-commerce user behavior records — uncovering conversion patterns, drop-off points, and segment-level KPIs for executive reporting.**
+> **Automated data pipeline to clean, transform, and analyze 8,000+ e-commerce user behavior records  uncovering conversion patterns, drop-off points, and segment-level KPIs for executive reporting.**
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project builds a **fully automated, end-to-end SAS data pipeline** that processes raw e-commerce behavioral data through 5 structured stages — from raw CSV import all the way to clean, Power BI-ready exports.
 
