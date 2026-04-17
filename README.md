@@ -55,7 +55,7 @@ Without clean, structured data and a defined funnel, these questions cannot be a
 
 | Tool | Purpose |
 |---|---|
-| **SAS Base** | Data step programming — cleaning, imputation, feature engineering |
+| **SAS Base** | Data step programming cleaning, imputation, feature engineering |
 | **PROC SQL** | KPI aggregation across 3 segmentation dimensions |
 | **PROC MEANS** | Statistical validation and missing value audit |
 | **PROC PRINT** | Output preview for QA |
