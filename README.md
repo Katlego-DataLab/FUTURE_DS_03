@@ -2,6 +2,9 @@
 
 > **Automated data pipeline to clean, transform, and analyze 8,000+ e-commerce user behavior records  uncovering conversion patterns, drop-off points, and segment-level KPIs for executive reporting.**
 
+
+!DASHBORAD[https://github.com/Katlego-DataLab/FUTURE_DS_03/blob/main/Ecommerce%20Intelligence%20FUTURE_DS_03.png]
+
 ---
 
 ## 🗂️ Table of Contents
