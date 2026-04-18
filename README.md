@@ -5,8 +5,7 @@
 
 ![DASHBORAD](https://github.com/Katlego-DataLab/FUTURE_DS_03/blob/main/Ecommerce%20Intelligence%20FUTURE_DS_03.png)
 
-[![Power BI Dashboard](https://app.powerbi.com/groups/me/reports/ea9ad4b7-a970-49fc-b41e-92fd7bf550fa/ba2bcde8b4d6e28092ba?experience=power-bi)
-
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/groups/me/reports/ea9ad4b7-a970-49fc-b41e-92fd7bf550fa/ba2bcde8b4d6e28092ba?experience=power-bi)
 ---
 
 ## 🗂️ Table of Contents
